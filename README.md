@@ -19,14 +19,11 @@ project as a team remotely.
 
 DIFFERENCES BETWEEN GIT AND GITHUB
 
-GIT                                     GITHUB
------------------------------------------------------------------------------
-free and open-source control tool   |   pay to use online servive built to run
-for developers                      |   git in the cloud
-                                    |
-decentralized                       |   
------------------------------------------------------------------------------
+GIT
+free and open-source control tool for developers
 
+GITHUB
+pay to use online service built to run git in cloud
 
 A COMPREHENSIVE GIT AND GITHUB SETUP GUIDE FOR BEGINNERS
 
