@@ -58,7 +58,7 @@ ssh pubkey make sure to copy the while value catinated to the terminal
 now head to your github account, click on the tiny profile like logo and click on settings
 click on SSH and GPG keys
 now lets click on new ssh and paste the ssh pubkey copied, it starts with 'ssh-rsa and ends with .com' now click on add ssh key 
-congratulatons you have successfully configured your github to git!
+congratulatons you have successfully configured your github to git!.
 
 
 
@@ -71,3 +71,4 @@ congratulatons you have successfully configured your github to git!
 
 
 
+# git_setup
